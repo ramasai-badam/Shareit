@@ -1,8 +1,0 @@
-[server]
-maxUploadSize = 10
-
-[logger]
-
-# Level of logging: 'error', 'warning', 'info', or 'debug'.
-# Default: 'info'
-level = "debug"
